@@ -14,7 +14,7 @@ Parts list (with links to find product)
 
 • Measurement of cavitation events (Figure A 1):
 
-  \- Four Generic USB microscope (USD 19.66 per microscope). These microscopes are low-cost and can be easily acquired from commercial venues (Amazon or Steren- Latin America) (Figure A 2). [product link](https://www.amazon.com/Microscope-Bysameyee-40X-1000X-Magnification-Endoscope/dp/B07BF86SRP/ref=sr_1_1_sspa?crid=247623ZPI89MX&dib=eyJ2IjoiMSJ9.dSMKMRHya2Ar0HOlOfzqXxPFA_PiqcWKTfXCHym3HpkMl0oKxwuPezB-5zXMDBQMxamZAw4jJjs8S30rtoXMVHViiJqaVFUpiqr3WAV2QtJROIBczCtPn58BlzzlxlDtna8PegMUzDRV3sfFaVBYLigRgUlM2djE_wIlzmsPkoAab6QdAiv1urs4gqgH2cgwqo3RvFxE67SWoBNXIot7IGXJBe67fQjjuOODTWPQtP4.ftUvvxJQCr8jiyIqZmrddLedljDVw9d7knrhGBqvUes&dib_tag=se&keywords=usb+microscopes&qid=1733775782&sprefix=usb+microscopes%2Caps%2C147&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+  \- Four Generic USB microscopes (USD 19.66 per microscope). These microscopes are low-cost and can be easily acquired from commercial venues (Amazon or Steren- Latin America) (Figure A 2). [product link](https://www.amazon.com/Microscope-Bysameyee-40X-1000X-Magnification-Endoscope/dp/B07BF86SRP/ref=sr_1_1_sspa?crid=247623ZPI89MX&dib=eyJ2IjoiMSJ9.dSMKMRHya2Ar0HOlOfzqXxPFA_PiqcWKTfXCHym3HpkMl0oKxwuPezB-5zXMDBQMxamZAw4jJjs8S30rtoXMVHViiJqaVFUpiqr3WAV2QtJROIBczCtPn58BlzzlxlDtna8PegMUzDRV3sfFaVBYLigRgUlM2djE_wIlzmsPkoAab6QdAiv1urs4gqgH2cgwqo3RvFxE67SWoBNXIot7IGXJBe67fQjjuOODTWPQtP4.ftUvvxJQCr8jiyIqZmrddLedljDVw9d7knrhGBqvUes&dib_tag=se&keywords=usb+microscopes&qid=1733775782&sprefix=usb+microscopes%2Caps%2C147&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
   \- Monitor [product link](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=used+monitors&_sacat=0)
 
@@ -64,7 +64,7 @@ o	Acquire four microscope stands and four USB microscopes.
 
 o	Cut a piece of birch plywood to the dimensions 160 cm x 50 cm x ½ inch.
 
-o	Perforate the microscope bases and secure with secures into the plywood.
+o	Perforate the microscope bases and attach them with secures into the plywood.
 
 o	Use screws and wire clips to secure branches and stems to the plywood and to the microscope stands.
 
