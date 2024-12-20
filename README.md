@@ -7,7 +7,7 @@ Plants transport water through a tension-cohesion mechanism, where water moves f
 
 Methods to measure P50 vary in cost and complexity. The bench drying method is the most accessible for desiccation, while conductivity loss can be measured hydraulically or visually. Visual methods, like microtomography and optical techniques, are promising but often expensive. A newer optical method uses light transmission changes to detect embolisms, but current setups are costly and not widely accessible.
 
-To address this, we propose a low-cost optical method using USB microscopes and simple tools to measure P50 in stems. This approach is designed to be affordable and applicable in resource-limited regions, particularly in biodiversity-rich areas of the global South. We validated the method by comparing P50 in two contrasting woody species and evaluated its cost-effectiveness.
+To overcome the accessibility barrier, we propose a low-cost optical method using USB microscopes and simple tools to measure P50 in stems. This approach is designed to be affordable and applicable in resource-limited regions, particularly in biodiversity-rich areas of the global South. We validated the method by comparing P50 in two contrasting woody species and evaluated its cost-effectiveness.
 
 This is the accompanying GitHub page for the article "*A low-cost protocol for the optical method of vulnerability curves to calculate P50*" submitted to the Journal *Applications in Plant Sciences*. This repository contains the Python source code required to operate the USB microscopes used in the protocol.
 
