@@ -42,17 +42,21 @@ Parts list (with links to find product)
 
 \- Python [software link](https://www.python.org/downloads/)
 
+
  ![Figure A](images/image1.png)
 
 Figure A 1 Part of the material used to measure % of cavitation accumulated
 
- ![][image2]
+ 
+![Figure A](images/image2.png)
 
-Figure A 2 USB microscopes used. 
+Figure A 2 USB microscopes used.
 
- ![][image3]
 
-Figure A3 (a) Screen showing the activated program. In the upper left corner, the four images of the microscope are displayed, and on the right, the verbose output indicates the status
+
+ ![Figure A](images/image3.png)
+
+Figure A3 (a) Screenshot showing the program running. In the upper left corner, the four images of the microscope are displayed, and on the right, the verbose output indicates the running status
 
 A)	Procedure for preparation of equipment
 
