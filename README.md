@@ -10,3 +10,7 @@ Methods to measure P50 vary in cost and complexity. The bench drying method is t
 To address this, we propose a low-cost optical method using USB microscopes and simple tools to measure P50 in stems. This approach is designed to be affordable and applicable in resource-limited regions, particularly in biodiversity-rich areas of the global South. We validated the method by comparing P50 in two contrasting woody species and evaluated its cost-effectiveness.
 
 This is the accompanying GitHub page for the article "*A low-cost protocol for the optical method of vulnerability curves to calculate P50*" submitted to the Journal *Applications in Plant Sciences*. This repository contains the Python source code required to operate the USB microscopes used in the protocol.
+
+The file **materials_and_methods.md** contains the protocol for preparing plants and obtaining water potential. It includes a link to all the products/items used in the experiment.
+
+The files *calibrate_camera_Journal_version.py* and *camera_image_acquisition_Journal_version.py* contain the Python source code to replicate the results presented in the journal article.
